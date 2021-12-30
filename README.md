@@ -6,7 +6,7 @@
 
 ## Related repositories
 
-* [ZeroQuest - Web](https://github.com/JeanM38/zeroquest_web)
+* [ZeroQuest - web](https://github.com/JeanM38/zeroquest_web)
 * [ZeroQuest - backend](https://github.com/JeanM38/zeroquest_backend)
 
 ## Author
